@@ -1,0 +1,144 @@
+.nav {
+    width: 30%;
+    background-color: rgb(29, 32, 205);
+    list-style: none;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.navli {
+    display: inline;
+    color: white;
+    text-align: right;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav a:link {
+    text-decoration: none;
+}
+
+.jobdetails {
+    width: 40%
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 70px;
+    text-align: center;
+    color: rgb(29, 32, 205);
+    font-weight: 800;
+    margin: 34px;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(29, 32, 205);
+    list-style: none;
+    text-transform: uppercase;
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+    color: white;
+    text-align: right;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+footer a:link {
+    text-decoration: none;
+}
+
+.jobdetails {
+    font-family: 'Inter', sans-serif;
+    margin-left: 350px;
+}
+
+h3 {
+    color: blueviolet;
+    font-family: 'Inter', sans-serif;
+    margin-left: 350px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family: Courier;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Inter', sans-serif;
+    margin-left: 350px;
+}
+
+.bioheader {
+    width: 50%;
+}
+
+.biodetail {
+    width: 50%;
+}
+
+button {
+    background-color: blueviolet;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.button-center {
+    text-align: center;
+}
+
+button a:link {
+    text-decoration: none;
+    color: white;
+}
+
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding: 50px;
+}
+
+.contacttable {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacttable a:link {
+    text-decoration: none;
+}
+
+.homebodytext {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+}
