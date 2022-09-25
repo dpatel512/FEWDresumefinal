@@ -81,7 +81,7 @@ h2 {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 30px;
-    font-family: Courier;
+    font-family: 'Inter', sans-serif;
     font-size: 40px;
 }
 
@@ -134,11 +134,11 @@ button a:link {
     text-decoration: none;
 }
 
-.homebodytext {
+p {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 50%;
+    flex-direction: column;
 }
